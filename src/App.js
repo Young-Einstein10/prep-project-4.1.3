@@ -1,4 +1,4 @@
-import {useEffect, useState} from "react";
+import { useEffect, useState } from "react";
 
 import logo from "./assets/img/mlh-prep.png";
 import MyMap from "./components/MyMap";
